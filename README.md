@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I am Abir!
 
-<!--
-**iamaaabir/iamaaabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 Aspiring Software Engineer sharing my journey and learnings in tech  
+👨🏽‍🎓 Studying Data Science at the University of Texas at Dallas  
+🎨 Perfumes, watches, relaxing, coffee  
+💭 Currently learning about full stack web development!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=iamaaabir&count_private=true&show_icons=true&theme=radical&hide_rank=false"
+       alt="Abir's GitHub stats" 
+       height="180px" />
+</p>
+
+
+
